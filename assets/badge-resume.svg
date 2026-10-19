@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184.79999999999998" height="30" viewBox="0 0 184.79999999999998 30" role="img" aria-label="resume on the site ↗" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" xml:space="preserve">
+<rect x="0.5" y="0.5" width="183.79999999999998" height="29" rx="6" fill="#0f141b" stroke="#30363d"/>
+  <path d="M67.19999999999999 0.5 H178.29999999999998 A6 6 0 0 1 184.29999999999998 6.5 V23.5 A6 6 0 0 1 178.29999999999998 29.5 H67.19999999999999 Z" fill="#ff7b72" opacity="0.14"/>
+  <text x="33.599999999999994" y="19.5" font-size="12" fill="#6e7681" text-anchor="middle">resume</text>
+  <text x="125.99999999999999" y="19.5" font-size="12" font-weight="700" fill="#ff7b72" text-anchor="middle">on the site ↗</text>
+</svg>

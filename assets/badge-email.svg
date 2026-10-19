@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141.6" height="30" viewBox="0 0 141.6 30" role="img" aria-label="email say hi ↗" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" xml:space="preserve">
+<rect x="0.5" y="0.5" width="140.6" height="29" rx="6" fill="#0f141b" stroke="#30363d"/>
+  <path d="M60 0.5 H135.1 A6 6 0 0 1 141.1 6.5 V23.5 A6 6 0 0 1 135.1 29.5 H60 Z" fill="#e3b341" opacity="0.14"/>
+  <text x="30" y="19.5" font-size="12" fill="#6e7681" text-anchor="middle">email</text>
+  <text x="100.8" y="19.5" font-size="12" font-weight="700" fill="#e3b341" text-anchor="middle">say hi ↗</text>
+</svg>
